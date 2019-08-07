@@ -11,6 +11,8 @@
 .vscode
 Pipfile.lock
 __pycache__
+build
 dev.env
+dist
 env
 pip-wheel-metadata

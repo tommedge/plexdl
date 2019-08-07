@@ -1,1 +1,6 @@
+build
+dist
+Dockerfile
 .git
+Makefile
+*.sw?
